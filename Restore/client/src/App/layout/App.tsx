@@ -52,7 +52,7 @@ function App() {
               <Container>
                   <Outlet />
               </Container>
-          </ThemeProvider>
+          </ThemeProvider> 
       </>
   );
 }
